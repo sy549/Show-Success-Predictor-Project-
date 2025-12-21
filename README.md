@@ -58,5 +58,3 @@ season-renewal-feasibility-analysis/
 3. Open the notebook and run all cells sequentially
 
 
-
-If you want, I can also tailor this README to be more **technical**, more **business focused**, or aligned with a **specific internship role** you are applying for.
